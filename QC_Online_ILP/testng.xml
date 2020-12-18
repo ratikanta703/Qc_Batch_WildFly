@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <groups>																																																	
+  <run>
+
+	
+        <!-- Ratikanta Sprint Scenarios Group--> 
+        
+        <!-- Procedure Table In DB : PRC_QC_SSN_ONLINE_PDL -->  
+        
+<!-- To Execute OK ILP & IL ILP, Set the Store date(2026,2016) to current/sys date and Veritec should be Enabled --> 
+
+                 <!-- <include name="Ratikanta_Online_MOILP"/> -->
+                <!-- <include name="Ratikanta_Online_WIILP"/> --> 
+                 <!-- <include name="Ratikanta_Online_OKILP"/> --> 
+                <!-- <include name="Ratikanta_Sprint5_REQ_868_MOILP_1"/> --> 
+               <!-- <include name="Ratikanta_Sprint7_REQ_868_ILP"/> -->
+               
+                <!-- <include name="Ratikanta_Online_ILILP_1"/> -->
+                 <!-- <include name="Ratikanta_Online_NMILP_1"/> -->
+                 <!-- <include name="Ratikanta_Online_UTILP_1"/> -->
+                 
+                 
+     <!--######################  Refinance Scenarios Start With Existing Test Data ############ -->
+                 
+       <!--#############  Proc Table :PRC_SSN_NM_ONLINE  ############ -->
+       
+           
+           <!--  <include name="Ratikanta_Online_NMILP_Refinance_1"/> -->
+            
+            
+            
+            
+            
+      <!--######################  Payment Scenarios Start With Existing Test Data ############ -->
+                 
+       <!--#############  Proc Table :PRC_SSN_NM_ONLINE  ############ -->
+       
+           
+             <include name="Ratikanta_Online_NMILP_Payment_1"/>
+               
+   
+
+  </run>
+  </groups> 
+   <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

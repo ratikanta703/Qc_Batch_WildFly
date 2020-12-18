@@ -1,0 +1,11 @@
+
+^squid:UselessImportCheck"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8©àÇ².
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8È’³.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çÏàÁ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾ÇÂöÿÿÿÿÿ8È’³.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç©¹·8©àÇ².
+Zsquid:S1854"<Remove this useless assignment to local variable "loan_num".(¥î‡8È’³.
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(çÏàÁ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹´Ø8È’³.
+isquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ï‹â´8È’³.

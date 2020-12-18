@@ -1,0 +1,112 @@
+
+W
+squid:S106³";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+lsquid:S00100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áóÈûÿÿÿÿ
+esquid:S1854Ä"HRemove this useless assignment to local variable "ESign_CollateralType".(ÊÊâıÿÿÿÿ
+Bsquid:S1166Ÿ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Nsquid:S18542"7Remove this useless assignment to local variable "cvv".(ü‰ÙË
+Esquid:S1481Ç"-Remove this unused "cardType" local variable.(Ğ¸¥‚
+dsquid:S1854+"HRemove this useless assignment to local variable "ESign_CollateralType".(ÊÊâıÿÿÿÿ
+Tsquid:S1854Ç"<Remove this useless assignment to local variable "cardType".(Ğ¸¥‚
+@squid:S1481Ë"(Remove this unused "cvv" local variable.(ü‰ÙË
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+osquid:S00117Î"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äşÕ‚
+nsquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú
+tsquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+ssquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+hsquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(ôöõáıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÅ¤›úÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+Zsquid:S1854Ì"BRemove this useless assignment to local variable "CardHolderName".(ëê¡€
+Qsquid:S1481$"5Remove this unused "ESign_Preference" local variable.(Õ»Íèùÿÿÿÿ
+tsquid:S00117Ä"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+`squid:S1192"IDefine a constant instead of duplicating this literal "WaiveFee" 4 times.(‰Øª
+Ksquid:S1481,"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+Hsquid:S14810"1Remove this unused "cardEx_month" local variable.(äÓú
+tsquid:S00117Ó"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+[squid:S1854Å">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ
+esquid:S1854¼"MRemove this useless assignment to local variable "ESign_CourtesyCallConsent".(Á£¼
+Isquid:S1481É"1Remove this unused "cardEx_month" local variable.(äÓú
+tsquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áóÈûÿÿÿÿ
+tsquid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áóÈûÿÿÿÿ
+tsquid:S00117Á"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ
+Gsquid:S14811"0Remove this unused "cardEx_Year" local variable.(¸ÊÌæ
+ssquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»Íèùÿÿÿÿ
+Rsquid:S1481½"5Remove this unused "ESign_Preference" local variable.(Õ»Íèùÿÿÿÿ
+Xsquid:S1854É"@Remove this useless assignment to local variable "cardEx_month".(äÓú
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€
+Zsquid:S1854/">Remove this useless assignment to local variable "cardNumber".(­Ö„æÿÿÿÿÿ
+Vsquid:S1481¼">Remove this unused "ESign_CourtesyCallConsent" local variable.(Á£¼
+tsquid:S00117Í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¿áûúÿÿÿÿ
+Zsquid:S1854,">Remove this useless assignment to local variable "TenderType".(ÊŞ³¨ÿÿÿÿÿ
+osquid:S00117¿"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+tsquid:S00117†"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Õãßıÿÿÿÿ
+osquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+tsquid:S00117À"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+Vsquid:S1481Ä"9Remove this unused "ESign_CollateralType" local variable.(ÊÊâıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”Èß²
+Jsquid:S14813"3Remove this unused "CardHolderName" local variable.(ëê¡€
+Ksquid:S1481Ì"3Remove this unused "CardHolderName" local variable.(ëê¡€
+Ssquid:S1854."<Remove this useless assignment to local variable "cardType".(Ğ¸¥‚
+dsquid:UselessImportCheck
+";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+osquid:S00117¾"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+`squid:S1854$"DRemove this useless assignment to local variable "ESign_Preference".(Õ»Íèùÿÿÿÿ
+Dsquid:S1481."-Remove this unused "cardType" local variable.(Ğ¸¥‚
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÅ¤›úÿÿÿÿ
+ssquid:S00117l"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Õãßıÿÿÿÿ
+Osquid:S1854Ë"7Remove this useless assignment to local variable "cvv".(ü‰ÙË
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(”Èß²
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(ôöõáıÿÿÿÿ
+W
+squid:S106Ã";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥—¶
+Ysquid:S18543"BRemove this useless assignment to local variable "CardHolderName".(ëê¡€
+Wsquid:S18540"@Remove this useless assignment to local variable "cardEx_month".(äÓú
+nsquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(¥—¶
+fsquid:S1192F"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ
+Ksquid:S1481/"/Remove this unused "cardNumber" local variable.(­Ö„æÿÿÿÿÿ
+Q
+squid:S106 ";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+osquid:S00117Ò"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+tsquid:S00117Ô"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+bsquid:S1192l"FDefine a constant instead of duplicating this literal "value" 4 times.(„Õãßıÿÿÿÿ
+[squid:S1854È">Remove this useless assignment to local variable "cardNumber".(­Ö„æÿÿÿÿÿ
+R
+squid:S106¹";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+?squid:S14812"(Remove this unused "cvv" local variable.(ü‰ÙË
+dsquid:S1854#"MRemove this useless assignment to local variable "ESign_CourtesyCallConsent".(Á£¼
+Lsquid:S1481Å"/Remove this unused "TenderType" local variable.(ÊŞ³¨ÿÿÿÿÿ
+lsquid:UselessImportCheck	"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+osquid:S00117¼"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á£¼
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ
+Vsquid:S18541"?Remove this useless assignment to local variable "cardEx_Year".(¸ÊÌæ
+Bsquid:S1166¸"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+asquid:S1854½"DRemove this useless assignment to local variable "ESign_Preference".(Õ»Íèùÿÿÿÿ
+osquid:S00117Ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÊÌæ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÅ¤›úÿÿÿÿ
+osquid:S00117Ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëê¡€
+Lsquid:S1481È"/Remove this unused "cardNumber" local variable.(­Ö„æÿÿÿÿÿ
+Hsquid:S1481Ê"0Remove this unused "cardEx_Year" local variable.(¸ÊÌæ
+tsquid:S00117Å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+nsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+V
+squid:S106*";Replace this usage of System.out or System.err by a logger.(Øœ¾¤ÿÿÿÿÿ
+Usquid:S1481#">Remove this unused "ESign_CourtesyCallConsent" local variable.(Á£¼
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+osquid:S00117É"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓú
+Usquid:S1481+"9Remove this unused "ESign_CollateralType" local variable.(ÊÊâıÿÿÿÿ
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¿áûúÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Wsquid:S1854Ê"?Remove this useless assignment to local variable "cardEx_Year".(¸ÊÌæ

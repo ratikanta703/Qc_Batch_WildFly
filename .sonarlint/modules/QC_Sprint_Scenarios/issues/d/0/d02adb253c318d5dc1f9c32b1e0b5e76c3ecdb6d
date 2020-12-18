@@ -1,0 +1,57 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+osquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8Ñ«Ã¥.
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âõ¬Œüÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ‘Â
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆëÏõ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ‘Â
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¼©èøÿÿÿÿ
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•çüû
+`squid:S1132X"IMove the "ACH" string literal on the left side of this string comparison.(–õž‹
+d
+squid:S134C"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Öï õ
+msquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ïÛ[
+Isquid:S1481-"-Remove this unused "CardType" local variable.(ÂÊËæùÿÿÿÿ
+`squid:S1132C"IMove the "ACH" string literal on the left side of this string comparison.(Öï õ
+Psquid:S1481ð"3Remove this unused "screenshotPath" local variable.(°¿Œ…ùÿÿÿÿ
+msquid:UselessImportCheck	"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.( ‰Þà
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿þÿÿÿÿ
+e
+squid:S134…"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹ø€Ó
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+j
+squid:S134©"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(å¤˜“øÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Š ‘Â
+hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(ÕûžŠùÿÿÿÿ
+¦squid:S1192E"ŽDefine a constant instead of duplicating this literal "*******Lend Nation application navigated to Repayment Information page*******" 3 times.(·Å¹’
+jsquid:S1132J"SMove the "Cash At Store" string literal on the left side of this string comparison.(÷ÎÇ·
+nsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ½²”
+ssquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áïã›ùÿÿÿÿ
+msquid:S1132©"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(å¤˜“øÿÿÿÿ
+xsquid:S1192G"\Define a constant instead of duplicating this literal "Selected repayment type as " 3 times.(‡ßÉþÿÿÿÿ
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ãø—
+nsquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³¼œúÿÿÿÿ
+rsquid:S1192F"VDefine a constant instead of duplicating this literal "repayment_method_type" 3 times.(®âÎøÿÿÿÿ
+csquid:S1132…"KMove the "CHECK" string literal on the left side of this string comparison.(¹ø€Ó
+Xsquid:S1854-"<Remove this useless assignment to local variable "CardType".(ÂÊËæùÿÿÿÿ
+ssquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÚœŽýÿÿÿÿ
+hsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(Ö³Ìäþÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºãú¯
+_squid:S1854ð"BRemove this useless assignment to local variable "screenshotPath".(°¿Œ…ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+osquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8Ñ«Ã¥.
+‘squid:S1192a"zDefine a constant instead of duplicating this literal "******************************************************** " 3 times.(³Ü„ù
+Bsquid:S1166ì"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊËæùÿÿÿÿ
+nsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îžþó
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·¼ê
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ
+osquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8Ñ«Ã¥.
+isquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(«Ñ¡8Õ¹Ñ¥.

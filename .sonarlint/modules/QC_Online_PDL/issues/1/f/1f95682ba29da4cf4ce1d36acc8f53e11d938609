@@ -1,0 +1,48 @@
+
+Psquid:UselessParenthesesCheck‚"!Remove those useless parentheses.(†Äð‘úÿÿÿÿ
+Psquid:UselessParenthesesCheck¬"!Remove those useless parentheses.(Ã¿Áÿûÿÿÿÿ
+Ksquid:EmptyStatementUsageCheckd"Remove this empty statement.(º¯áÝûÿÿÿÿ
+bsquid:S1192)"FDefine a constant instead of duplicating this literal "Login" 4 times.(÷º¢°üÿÿÿÿ
+Msquid:S1313M"1Make this IP "192.168.2.66" address configurable.(Œü×±ûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á³£›
+bsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(°«¨
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ªÝ¾
+gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(‹™®Õüÿÿÿÿ
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(•ÉâÍüÿÿÿÿ
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ÛŠÏÊ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(÷•¸«ùÿÿÿÿ
+bsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(´ì¬§
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+i
+squid:S134G"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(úäìÅÿÿÿÿÿ
+gsquid:S1132G"KMove the "local" string literal on the left side of this string comparison.(úäìÅÿÿÿÿÿ
+Nsquid:S1135q"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+esquid:S00101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÙÓÚ
+lsquid:S00100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôöñŽÿÿÿÿÿ
+Isquid:S1172#"-Remove this unused method parameter "AppURL".(‹û÷×ûÿÿÿÿ
+Asquid:S1172y"*Remove this unused method parameter "SSN".(ø¸íÈ
+Gsquid:S1172¤"*Remove this unused method parameter "SSN".(ôöñŽÿÿÿÿÿ
+Asquid:S1166p"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Bsquid:S1166˜"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Bsquid:S1166À"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹û÷×ûÿÿÿÿ
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117M"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œü×±ûÿÿÿÿ
+nsquid:S00117y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+nsquid:S00117y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+tsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôöñŽÿÿÿÿÿ
+tsquid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôöñŽÿÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µŽ²
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+Osquid:UselessImportCheck
+"+Remove this unused import 'java.util.Date'.(¸…¼ü
+[squid:UselessImportCheck	"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+?squid:S1148t"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

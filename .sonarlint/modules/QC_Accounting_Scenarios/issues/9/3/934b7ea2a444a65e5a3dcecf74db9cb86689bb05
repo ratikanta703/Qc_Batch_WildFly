@@ -1,0 +1,41 @@
+
+Isquid:S1444"+Make this "public static month" field final(®ºı8•½å¨ø-
+usquid:S00117j"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åè°©8šõÆªø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡éÌüÿÿÿÿ8•½å¨ø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8•½å¨ø-
+q
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8ôŒ¾ü-
+Vsquid:S1135ñ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8•½å¨ø-
+Csquid:S1166_"%Either log or rethrow this exception.(¬Ù¨Í8•½å¨ø-
+Dsquid:S1166â"%Either log or rethrow this exception.(¬Ù¨Í8ôŒ¾ü-
+osquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(™ã€±üÿÿÿÿ8•½å¨ø-
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(­„øŒ8•½å¨ø-
+Isquid:S1166ğ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8•½å¨ø-
+Hsquid:S1444"*Make this "public static year" field final(˜Áİá8•½å¨ø-
+Ysquid:S1141Û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8•½å¨ø-
+nsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(ÔşÑûÿÿÿÿ8„¶Óªø-
+Lsquid:S1444")Make this "public static day" field final(Òâ£»şÿÿÿÿ8•½å¨ø-
+jsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(‘’›À8ôŒ¾ü-
+†"squid:ClassVariableVisibilityCheck"QMake month a static final constant or non-public and provide accessors if needed.(®ºı8•½å¨ø-
+‰"squid:ClassVariableVisibilityCheck"OMake day a static final constant or non-public and provide accessors if needed.(Òâ£»şÿÿÿÿ8•½å¨ø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªëâÿÿÿÿÿ8•½å¨ø-
+dsquid:S1192j"FDefine a constant instead of duplicating this literal "value" 4 times.(åè°©8•½å¨ø-
+usquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8•½å¨ø-
+usquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8•½å¨ø-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8•½å¨ø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8é×šªø-
+Gsquid:S1148ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•½å¨ø-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ªëâÿÿÿÿÿ8ôŒ¾ü-
+q
+squid:S134¡"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Š ®×şÿÿÿÿ8•½å¨ø-
+zsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8•½å¨ø-
+msquid:S11922"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ8•½å¨ø-
+jsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(€™ºö8•½å¨ø-
+p
+squid:S134V"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8•½å¨ø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªëâÿÿÿÿÿ8•½å¨ø-
+…"squid:ClassVariableVisibilityCheck"PMake year a static final constant or non-public and provide accessors if needed.(˜Áİá8•½å¨ø-
+Psquid:S1172"-Remove this unused method parameter "AppURL".(ªëâÿÿÿÿÿ8•½å¨ø-
+usquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËòşÃ8•½å¨ø-
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8•½å¨ø-
+Isquid:S1166Œ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8•½å¨ø-

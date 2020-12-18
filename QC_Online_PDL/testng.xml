@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <groups>																																																	
+  <run>
+
+	
+        <!-- Ratikanta Online Scenarios Group -->  
+                  
+     <!-- Procedure Table In DB : PRC_QC_SSN_ONLINE_PDL -->  
+        
+              <!-- <include name="Ratikanta_Online_MOPDL"/> --> 
+            
+    <!-- To Execute IL PDL, Set the Store date(2016) to current/sys date and Veritec should be Enabled -->
+              
+              <!-- <include name="Ratikanta_Online_ILPDL"/> -->  
+              
+                <!-- <include name="Ratikanta_Online_TXPDL_1"/> --> 
+              
+                 <!-- <include name="Ratikanta_Online_LAPDL_1"/> --> 
+                 
+                 <!-- <include name="Ratikanta_Online_NVPDL_1"/> -->
+                 <!-- <include name="Ratikanta_Online_IDPDL_1"/> -->
+                 
+            
+            
+             <!-- Procedure Table In DB : PRC_QTP_SSN_TS_LOC_1258 -->          
+             <!-- <include name="Ratikanta_Online_KSLOC_1"/> --> 
+             
+             
+  <!--######################  Refinance Scenarios Start With Existing Test Data ############ -->
+                 
+       <!--#############  Proc Table :PRC_SSN_NV_734  ############ -->
+       
+            <!-- <include name="Ratikanta_Online_NVPDL_Refinance_1"/> -->
+             <!-- <include name="Ratikanta_Online_LAPDL_Refinance_1"/> --> 
+             
+             
+             
+    <!--######################  Payment Scenarios Start With Existing Test Data ############ -->
+                 
+       <!--#############  Proc Table :PRC_SSN_NV_734  ############ -->
+       
+            <!--  <include name="Ratikanta_Online_NVPDL_Payment"/> -->
+               <include name="Ratikanta_Online_LAPDL_Payment"/> 
+        
+        
+        
+        
+  
+  
+  
+
+
+  </run>
+  </groups> 
+   <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

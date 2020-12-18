@@ -1,0 +1,41 @@
+
+i
+squid:S134="NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šèÖþÿÿÿÿ
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜøûÿÿÿÿ
+>squid:S1481K"'Remove this unused "df" local variable.(©Âìü
+Bsquid:S1166±"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+msquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜èŽõûÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(²ºÀûÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šèÖþÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(µª™®
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+Qsquid:S1141="5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Msquid:S1854K"6Remove this useless assignment to local variable "df".(©Âìü
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šèÖþÿÿÿÿ
+Isquid:S1135B"2Complete the task associated to this TODO comment.(‡ñÅ¼
+Tsquid:S1481-"8Remove this unused "encryption_store_no" local variable.(ŠÜøûÿÿÿÿ
+Vsquid:S1854,":Remove this useless assignment to local variable "Trancd".(±£ÛÙüÿÿÿÿ
+csquid:S1854-"GRemove this useless assignment to local variable "encryption_store_no".(ŠÜøûÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+<squid:S1166A"%Either log or rethrow this exception.(”ý¾
+?squid:S1481+"(Remove this unused "PIN" local variable.(¿âÐ¬
+hsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(€šèÖþÿÿÿÿ
+Nsquid:S1854+"7Remove this useless assignment to local variable "PIN".(¿âÐ¬
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±£ÛÙüÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+Gsquid:S1481,"+Remove this unused "Trancd" local variable.(±£ÛÙüÿÿÿÿ
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Í”â 
+hsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ï’´’úÿÿÿÿ
+_squid:S12264"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ËÜœèýÿÿÿÿ
+j
+squid:S134‘"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(±²ìöùÿÿÿÿ
+nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(µ»ºÓûÿÿÿÿ8ÒŒÁÖ¹.

@@ -1,0 +1,43 @@
+
+Qsquid:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Tsquid:S1854,"=Remove this useless assignment to local variable "ProductID".(œñ†í
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+Asquid:S1166J"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+`squid:S1192<"IDefine a constant instead of duplicating this literal "topFrame" 4 times.(ğÁ¾”
+nsquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+fsquid:S1192E"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+ssquid:S001171"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+hsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(Ç£‹ÿÿÿÿÿ
+Osquid:S1135Ç"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Esquid:S1481,".Remove this unused "ProductID" local variable.(œñ†í
+csquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(¹›ï£
+Bsquid:S1166Æ"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ssquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+@squid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+ssquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ™Â
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤¼Æª
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Ú½ï…úÿÿÿÿ
+Qsquid:S1141C"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+bsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+<squid:S1166|"%Either log or rethrow this exception.(”ı¾
+bsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ÏßºD
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ™Â
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ì¸¹µÿÿÿÿÿ
+i
+squid:S134)"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹‘éÿÿÿÿÿ
+fsquid:S1192>"PDefine a constant instead of duplicating this literal "li[id='910000']" 4 times.(ÀÕºE
+nsquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¹Äå
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+Isquid:S1135}"2Complete the task associated to this TODO comment.(‡ñÅ¼
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(İ™Â
+Osquid:S11977"8Move the array designator from the variable to the type.(åï©ñ
+nsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò

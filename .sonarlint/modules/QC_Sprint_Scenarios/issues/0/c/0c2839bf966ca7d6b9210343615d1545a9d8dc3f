@@ -1,0 +1,231 @@
+
+Qsquid:S1199í"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¦¾ğÃ‡.
+hsquid:S1192·"IDefine a constant instead of duplicating this literal "NSF Void" 4 times.(œÃ§¾8ø¶Öà‡.
+gsquid:S11929"IDefine a constant instead of duplicating this literal "topFrame" 8 times.(ğÁ¾”8¦¾ğÃ‡.
+†squid:S1192]"hDefine a constant instead of duplicating this literal "//input[@value='Go' and @name='button']" 4 times.(Û¾Çî8ø¶Öà‡.
+jsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ïÅ‹Ì8ø¶Öà‡.
+usquid:S1192H"RDefine a constant instead of duplicating this literal "SSN1 is entered: " 4 times.(èİé°ûÿÿÿÿ8ø¶Öà‡.
+vsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷Ö³8¦¾ğÃ‡.
+msquid:S1192}"JDefine a constant instead of duplicating this literal "Submit23" 12 times.(æ÷ùøÿÿÿÿ8¦¾ğÃ‡.
+xsquid:S1192¦"YDefine a constant instead of duplicating this literal "Disb type is entered as " 7 times.(ëè¢Ú8ø¶Öà‡.
+}squid:S1192m"ZDefine a constant instead of duplicating this literal "Tender Amt is entered as " 8 times.(Æ§–¿ùÿÿÿÿ8¦¾ğÃ‡.
+|squid:S1192¨"]Define a constant instead of duplicating this literal "Enter the password value as " 4 times.(ŸÎ¿µ8ø¶Öà‡.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8¦¾ğÃ‡.
+usquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ø¶Öà‡.
+squid:S1192ğ"Define a constant instead of duplicating this literal "<FONT color=green style=Arial> Void is Completed Successfully " 4 times.(¿³8ø¶Öà‡.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÙåäùÿÿÿÿ8ãÈÊ®ˆ.
+usquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8¦¾ğÃ‡.
+gsquid:S1192%"IDefine a constant instead of duplicating this literal "Scenario" 4 times.(¨Š¼¨8ø¶Öà‡.
+{squid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ø¶Öà‡.
+ƒsquid:S1192¿"_Define a constant instead of duplicating this literal "Clicked on Finish Void button " 8 times.(è¬«¥øÿÿÿÿ8¦¾ğÃ‡.
+{squid:S1132ˆ"WMove the "TLPRefinance_Void" string literal on the left side of this string comparison.(ö¨™ÿÿÿÿÿ8•öÚ‡.
+Dsquid:S1166á"%Either log or rethrow this exception.(¬Ù¨Í8ø¶Öà‡.
+˜squid:S1192ó"yDefine a constant instead of duplicating this literal "********************************************************" 4 times.(Èù‚·8ø¶Öà‡.
+{squid:S1132Œ"WMove the "ILPRefinance_Void" string literal on the left side of this string comparison.(÷Ïª„üÿÿÿÿ8­—àß‡.
+usquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷Ö³8ø¶Öà‡.
+Dsquid:S1166ñ"%Either log or rethrow this exception.(¬Ù¨Í8ãÈÊ®ˆ.
+{squid:S00117¼"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8¦¾ğÃ‡.
+vsquid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨8¦¾ğÃ‡.
+qsquid:S1871Ÿ"MThis branch's code block is the same as the block for the branch on line 660.(ÒÌâ–øÿÿÿÿ8ø¶Öà‡.
+osquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Ø×šıÿÿÿÿ8¦¾ğÃ‡.
+usquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ8¦¾ğÃ‡.
+vsquid:S00117—"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ãÈÊ®ˆ.
+{squid:S00117á"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åî¯¤úÿÿÿÿ8ãÈÊ®ˆ.
+jsquid:S11921"GDefine a constant instead of duplicating this literal "bottom" 4 times.(µïö·ıÿÿÿÿ8ø¶Öà‡.
+rsquid:S1132ú"NMove the "VoidLoan" string literal on the left side of this string comparison.(ÜÁ·Óùÿÿÿÿ8ãÈÊ®ˆ.
+£squid:S1192÷"Define a constant instead of duplicating this literal "<FONT color=green style=Arial>Void is  Completed Successfully " 4 times.(Œš©½ÿÿÿÿÿ8ø¶Öà‡.
+msquid:S1192r"JDefine a constant instead of duplicating this literal "Submit22" 12 times.(·˜Ïâøÿÿÿÿ8¦¾ğÃ‡.
+Dsquid:S1166Ô"%Either log or rethrow this exception.(¬Ù¨Í8¦¾ğÃ‡.
+ssquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Çõ¾ûÿÿÿÿ8ò­Øà‡.
+vsquid:S00104"_This file has 1,048 lines, which is greater than 1,000 authorized. Split it into smaller files.8ãÈÊ®ˆ.
+Y
+squid:S106Å";Replace this usage of System.out or System.err by a logger.(¶÷ÿÑ8ãÈÊ®ˆ.
+{squid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Çõ¾ûÿÿÿÿ8ø¶Öà‡.
+{squid:S00117›"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8¦¾ğÃ‡.
+vsquid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ8ø¶Öà‡.
+{squid:S00117Ä"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åî¯¤úÿÿÿÿ8¦¾ğÃ‡.
+{squid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Â÷úÿÿÿÿ8¦¾ğÃ‡.
+vsquid:S00117›"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8¦¾ğÃ‡.
+msquid:S1132È"NMove the "NSF Void" string literal on the left side of this string comparison.(œÃ§¾8ãÈÊ®ˆ.
+vsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ß Â÷úÿÿÿÿ8¦¾ğÃ‡.
+|squid:S1192{"^Define a constant instead of duplicating this literal "transactionDataBean.password" 22 times.(ü”êô8¦¾ğÃ‡.
+{squid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8”øñ°.
+†squid:S1192l"cDefine a constant instead of duplicating this literal "transactionDataBean.tenderAmtFirst" 8 times.(¸Í³ğùÿÿÿÿ8¦¾ğÃ‡.
+nsquid:S1132"OMove the "Refinance" string literal on the left side of this string comparison.(­øÅŒ8¦¾ğÃ‡.
+vsquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ8¦¾ğÃ‡.
+osquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(¶õ¸ûÿÿÿÿ8ø¶Öà‡.
+{squid:S00117À"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8”øñ°.
+{squid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8ø¶Öà‡.
+Ísquid:S1192Ğ"¨Define a constant instead of duplicating this literal " /html/body/form/table/tbody/tr/td/table/tbody/tr[3]/td[2]/table/tbody/tr[3]/td/table/tbody/tr[3]/td[1]" 4 times.(åî¯¤úÿÿÿÿ8ø¶Öà‡.
+nsquid:S1132ò"OMove the "Refinance" string literal on the left side of this string comparison.(­øÅŒ8ø¶Öà‡.
+vsquid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷Ö³8”øñ°.
+lsquid:S1192­"MDefine a constant instead of duplicating this literal "Deposit Void" 4 times.(Õ“¬8ø¶Öà‡.
+{squid:S1192>"]Define a constant instead of duplicating this literal "Clicked on Loan Transactions" 4 times.(¶ü³È8ø¶Öà‡.
+qsquid:S1871™"MThis branch's code block is the same as the block for the branch on line 142.(ÒÌâ–øÿÿÿÿ8­—àß‡.
+vsquid:S1132£"RMove the "Payment Void" string literal on the left side of this string comparison.(öä‹Ôûÿÿÿÿ8ãÈÊ®ˆ.
+usquid:S1132Ó"QMove the "Void Refund" string literal on the left side of this string comparison.(ü‰íÊùÿÿÿÿ8ãÈÊ®ˆ.
+Qsquid:S1199‡"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ãÈÊ®ˆ.
+hsquid:S1192i"KDefine a constant instead of duplicating this literal "htmlPayAmt" 4 times.(ÓÁÎ8ø¶Öà‡.
+vsquid:S00117·"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8”øñ°.
+ssquid:S1192Z"PDefine a constant instead of duplicating this literal "transactionList" 4 times.(Õí¼Àùÿÿÿÿ8ø¶Öà‡.
+Qsquid:S1199ê"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ø¶Öà‡.
+{squid:S00117¿"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ãÈÊ®ˆ.
+osquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(†’›Åşÿÿÿÿ8”øñ°.
+squid:S1192"jDefine a constant instead of duplicating this literal "Clicked on Finish Void Refinance button " 14 times.(õ›Úˆüÿÿÿÿ8¦¾ğÃ‡.
+nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(Öµğ–ıÿÿÿÿ8ÙŞùñ°.
+usquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨8ø¶Öà‡.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤8¦¾ğÃ‡.
+œ squid:MethodCyclomaticComplexity‚"cThe Cyclomatic Complexity of this method "Conv_Ilp_Void" is 13 which is greater than 10 authorized.(”Çõ¾ûÿÿÿÿ8ò­Øà‡.
+hsquid:S1192w"JDefine a constant instead of duplicating this literal "Refinance" 4 times.(­øÅŒ8ø¶Öà‡.
+osquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ú™ÅÙûÿÿÿÿ8¦¾ğÃ‡.
+‹squid:S1192V"hDefine a constant instead of duplicating this literal "//input[@value='Go' and @type='button']" 3 times.(÷æ£üÿÿÿÿ8ÙŞùñ°.
+zsquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8¦¾ğÃ‡.
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(±¯€¤8¦¾ğÃ‡.
+ksquid:S00112‚"FDefine and throw a dedicated exception instead of using a generic one.(”Çõ¾ûÿÿÿÿ8¦¾ğÃ‡.
+osquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(¶õ¸ûÿÿÿÿ8¦¾ğÃ‡.
+Dsquid:S1166à"%Either log or rethrow this exception.(¬Ù¨Í8¦¾ğÃ‡.
+osquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(¶õ¸ûÿÿÿÿ8¦¾ğÃ‡.
+lsquid:S1192c"IDefine a constant instead of duplicating this literal "VoidLoan" 4 times.(ÜÁ·Óùÿÿÿÿ8ø¶Öà‡.
+zsquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8¦¾ğÃ‡.
+Vsquid:S11973"8Move the array designator from the variable to the type.(åï©ñ8ø¶Öà‡.
+ysquid:S1132“"UMove the "TLPDefault_Void" string literal on the left side of this string comparison.(İ¡ãÄıÿÿÿÿ8òóâ‡.
+{squid:S00117Ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åî¯¤úÿÿÿÿ8ø¶Öà‡.
+msquid:S1132·"NMove the "NSF Void" string literal on the left side of this string comparison.(œÃ§¾8¦¾ğÃ‡.
+ˆsquid:S1192R"jDefine a constant instead of duplicating this literal "Clicked on Go button under search results" 4 times.(ÛŸ®ß8ø¶Öà‡.
+Y
+squid:S106â";Replace this usage of System.out or System.err by a logger.(¶÷ÿÑ8ø¶Öà‡.
+fsquid:S00112¥"FDefine and throw a dedicated exception instead of using a generic one.(›ùú»8ãÈÊ®ˆ.
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ø¶Öà‡.
+Šsquid:S1192/"lDefine a constant instead of duplicating this literal "****** Transaction Void has started *******" 3 times.(åû¼8ãÈÊ®ˆ.
+zsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8¦¾ğÃ‡.
+vsquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8¦¾ğÃ‡.
+nsquid:S1132ë"OMove the "Refinance" string literal on the left side of this string comparison.(­øÅŒ8ãÈÊ®ˆ.
+{squid:S00117¶"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ãÈÊ®ˆ.
+fsquid:S1192o"IDefine a constant instead of duplicating this literal "password" 8 times.(¥±€L8¦¾ğÃ‡.
+vsquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨8ãÈÊ®ˆ.
+usquid:S1132Ã"QMove the "Void Refund" string literal on the left side of this string comparison.(ü‰íÊùÿÿÿÿ8¦¾ğÃ‡.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÙåäùÿÿÿÿ8¦¾ğÃ‡.
+isquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(Ş·Á¬8ø¶Öà‡.
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ø¶Öà‡.
+qsquid:S1132c"NMove the "VoidLoan" string literal on the left side of this string comparison.(ÜÁ·Óùÿÿÿÿ8¦¾ğÃ‡.
+vsquid:S1192E"XDefine a constant instead of duplicating this literal "Clicked on Transactions" 4 times.(ãÿÊˆ8ø¶Öà‡.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÙåäùÿÿÿÿ8¦¾ğÃ‡.
+gsquid:S1192“"HDefine a constant instead of duplicating this literal "finish" 14 times.(‚ñÆÌ8¦¾ğÃ‡.
+usquid:S1192N"WDefine a constant instead of duplicating this literal "Click on submit Button" 4 times.(¼üÓÊ8ø¶Öà‡.
+msquid:S1132w"OMove the "Refinance" string literal on the left side of this string comparison.(­øÅŒ8¦¾ğÃ‡.
+vsquid:S00117²"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8¦¾ğÃ‡.
+‚squid:S1192y"_Define a constant instead of duplicating this literal "transactionDataBean.monetaryCd" 5 times.(ƒ·Œıÿÿÿÿ8ø¶Öà‡.
+osquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ŸáôÏüÿÿÿÿ8¦¾ğÃ‡.
+Wsquid:S1197È"8Move the array designator from the variable to the type.(åï©ñ8ãÈÊ®ˆ.
+qsquid:S11925"SDefine a constant instead of duplicating this literal "Business date is :" 4 times.(¸€»Å8ø¶Öà‡.
+jsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(Ş·Á¬8ãÈÊ®ˆ.
+jsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(Ş·Á¬8¦¾ğÃ‡.
+jsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(ïÅ‹Ì8ãÈÊ®ˆ.
+qsquid:S1132¡"RMove the "Deposit Void" string literal on the left side of this string comparison.(Õ“¬8ø¶Öà‡.
+xsquid:S1132ı"TMove the "Refinance_Void" string literal on the left side of this string comparison.(ãÍƒÍùÿÿÿÿ8¦¾ğÃ‡.
+jsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ïÅ‹Ì8¦¾ğÃ‡.
+qsquid:S1132¾"RMove the "Deposit Void" string literal on the left side of this string comparison.(Õ“¬8¦¾ğÃ‡.
+Psquid:S1172"-Remove this unused method parameter "AppURL".(ŸÙåäùÿÿÿÿ8¦¾ğÃ‡.
+{squid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8¦¾ğÃ‡.
+usquid:S1192L"RDefine a constant instead of duplicating this literal "SSN3 is entered: " 4 times.(­©“æüÿÿÿÿ8ø¶Öà‡.
+Qsquid:S1199î"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ø¶Öà‡.
+{squid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß Â÷úÿÿÿÿ8¦¾ğÃ‡.
+isquid:S1192"KDefine a constant instead of duplicating this literal "tenderType" 6 times.(‘èæ18ø¶Öà‡.
+{squid:S1132©"WMove the "ILPRefinance_Void" string literal on the left side of this string comparison.(÷Ïª„üÿÿÿÿ8ø¶Öà‡.
+{squid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ø¶Öà‡.
+ssquid:S1132"UMove the "ILPDefault_Void" string literal on the left side of this string comparison.(½ÏÖ(8ß“Áã‡.
+vsquid:S1192˜"RDefine a constant instead of duplicating this literal "ILPRefinance_Void" 3 times.(÷Ïª„üÿÿÿÿ8ãÈÊ®ˆ.
+Qsquid:S1199ö"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ãÈÊ®ˆ.
+usquid:S1132Â"QMove the "Void Refund" string literal on the left side of this string comparison.(ü‰íÊùÿÿÿÿ8ø¶Öà‡.
+csquid:S1192i"FDefine a constant instead of duplicating this literal "value" 4 times.(ÓÁÎ8ø¶Öà‡.
+msquid:S1132¸"NMove the "NSF Void" string literal on the left side of this string comparison.(œÃ§¾8¦¾ğÃ‡.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ŸÙåäùÿÿÿÿ8ãÈÊ®ˆ.
+{squid:S00117“"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ø¶Öà‡.
+rsquid:S1132×"NMove the "VoidLoan" string literal on the left side of this string comparison.(ÜÁ·Óùÿÿÿÿ8ø¶Öà‡.
+vsquid:S1132—"RMove the "Payment Void" string literal on the left side of this string comparison.(öä‹Ôûÿÿÿÿ8ø¶Öà‡.
+ squid:MethodCyclomaticComplexity¥"iThe Cyclomatic Complexity of this method "refinancestepupVoid" is 11 which is greater than 10 authorized.(›ùú»8¦¾ğÃ‡.
+š squid:MethodCyclomaticComplexity"bThe Cyclomatic Complexity of this method "Ref_Ilp_Void" is 13 which is greater than 10 authorized.(ŸÙåäùÿÿÿÿ8ãÈÊ®ˆ.
+vsquid:S1132¤"RMove the "Payment Void" string literal on the left side of this string comparison.(öä‹Ôûÿÿÿÿ8¦¾ğÃ‡.
+ƒsquid:S1192f"eDefine a constant instead of duplicating this literal "transactionDataBean.tenderTypeFirst" 14 times.(åôõ‚8¦¾ğÃ‡.
+Lsquid:S1172¥"-Remove this unused method parameter "AppURL".(›ùú»8ãÈÊ®ˆ.
+msquid:S1132«"NMove the "NSF Void" string literal on the left side of this string comparison.(œÃ§¾8ø¶Öà‡.
+qsquid:S1871"MThis branch's code block is the same as the block for the branch on line 386.(ÒÌâ–øÿÿÿÿ8ß“Áã‡.
+jsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(±¯€¤8ø¶Öà‡.
+Y
+squid:S106Ñ";Replace this usage of System.out or System.err by a logger.(¶÷ÿÑ8¦¾ğÃ‡.
+xsquid:S1132™"TMove the "Refinance_Void" string literal on the left side of this string comparison.(ãÍƒÍùÿÿÿÿ8ãÈÊ®ˆ.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ŸÙåäùÿÿÿÿ8¦¾ğÃ‡.
+‡squid:S1192W"iDefine a constant instead of duplicating this literal "Clicked on Go button under Loans section" 4 times.(îåêê8ø¶Öà‡.
+psquid:S1192Â"LDefine a constant instead of duplicating this literal "Void Refund" 4 times.(ü‰íÊùÿÿÿÿ8ø¶Öà‡.
+osquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(Ø×šıÿÿÿÿ8ãÈÊ®ˆ.
+vsquid:S00117ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÄŞ8¦¾ğÃ‡.
+{squid:S1132˜"WMove the "ILPRefinance_Void" string literal on the left side of this string comparison.(÷Ïª„üÿÿÿÿ8ãÈÊ®ˆ.
+{squid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8ãÈÊ®ˆ.
+Qsquid:S1172‚"-Remove this unused method parameter "AppURL".(”Çõ¾ûÿÿÿÿ8ø¶Öà‡.
+xsquid:S1192p"ZDefine a constant instead of duplicating this literal "Password is selected as " 32 times.(ìüË8¦¾ğÃ‡.
+jsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(ïÅ‹Ì8¦¾ğÃ‡.
+osquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(Ø×šıÿÿÿÿ8ø¶Öà‡.
+ƒsquid:S1192¥"_Define a constant instead of duplicating this literal "transactionDataBean.tenderType" 4 times.(¤âè·ûÿÿÿÿ8ø¶Öà‡.
+ksquid:S00112Š"FDefine and throw a dedicated exception instead of using a generic one.(ß Â÷úÿÿÿÿ8ø¶Öà‡.
+msquid:S1192B"JDefine a constant instead of duplicating this literal "mainFrame" 8 times.(ËøÇªıÿÿÿÿ8¦¾ğÃ‡.
+qsquid:S1192£"MDefine a constant instead of duplicating this literal "Payment Void" 4 times.(öä‹Ôûÿÿÿÿ8ø¶Öà‡.
+vsquid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ8ãÈÊ®ˆ.
+vsquid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬8”øñ°.
+rsquid:S1132Ş"NMove the "VoidLoan" string literal on the left side of this string comparison.(ÜÁ·Óùÿÿÿÿ8¦¾ğÃ‡.
+qsquid:S1132­"RMove the "Deposit Void" string literal on the left side of this string comparison.(Õ“¬8¦¾ğÃ‡.
+• squid:MethodCyclomaticComplexityŠ"\The Cyclomatic Complexity of this method "qcVoid" is 15 which is greater than 10 authorized.(ß Â÷úÿÿÿÿ8¦¾ğÃ‡.
+qsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(›ùú»8¦¾ğÃ‡.
+vsquid:S00117º"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Š¼¨8¦¾ğÃ‡.
+osquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ŸáôÏüÿÿÿÿ8ø¶Öà‡.
+osquid:CommentedOutCodeLineı"<This block of commented-out lines of code should be removed.(Ø×šıÿÿÿÿ8¦¾ğÃ‡.
+jsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(Ş·Á¬8¦¾ğÃ‡.
+Qsquid:S1199á"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¦¾ğÃ‡.
+qsquid:S1871ª"MThis branch's code block is the same as the block for the branch on line 649.(ÒÌâ–øÿÿÿÿ8ãÈÊ®ˆ.
+usquid:S1132¶"QMove the "Void Refund" string literal on the left side of this string comparison.(ü‰íÊùÿÿÿÿ8¦¾ğÃ‡.
+squid:S1192["aDefine a constant instead of duplicating this literal "Transaction Type is selected as " 4 times.(Ó†¦Î8ø¶Öà‡.
+vsquid:S00117£"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ãÈÊ®ˆ.
+{squid:S1132"WMove the "TLPRefinance_Void" string literal on the left side of this string comparison.(ö¨™ÿÿÿÿÿ8ø¶Öà‡.
+vsquid:S1132´"RMove the "Payment Void" string literal on the left side of this string comparison.(öä‹Ôûÿÿÿÿ8¦¾ğÃ‡.
+osquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(ŸáôÏüÿÿÿÿ8¦¾ğÃ‡.
+vsquid:S00117¾"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8¦¾ğÃ‡.
+{squid:S1132"WMove the "TLPRefinance_Void" string literal on the left side of this string comparison.(ö¨™ÿÿÿÿÿ8ãÈÊ®ˆ.
+‹squid:S1192ª"gDefine a constant instead of duplicating this literal "Clicked on Finish Void Payment button " 4 times.(¾êÊ¼øÿÿÿÿ8ø¶Öà‡.
+qsquid:S1132®"RMove the "Deposit Void" string literal on the left side of this string comparison.(Õ“¬8ãÈÊ®ˆ.
+ksquid:S1192!"HDefine a constant instead of duplicating this literal "TxnType" 4 times.(ÎÛˆÌûÿÿÿÿ8ø¶Öà‡.
+nsquid:S1192'"KDefine a constant instead of duplicating this literal "TenderType" 4 times.(ÊŞ³¨ÿÿÿÿÿ8ø¶Öà‡.
+psquid:S1192J"RDefine a constant instead of duplicating this literal "SSN2 is entered: " 4 times.(®äË­8ø¶Öà‡.
+Qsquid:S1199÷"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¦¾ğÃ‡.
+Wsquid:S1197¥"8Move the array designator from the variable to the type.(åï©ñ8¦¾ğÃ‡.
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŞ³¨ÿÿÿÿÿ8¦¾ğÃ‡.
+„squid:S1192¹"eDefine a constant instead of duplicating this literal "transactionDataBean.disbursementType" 6 times.(ö¬â±8ø¶Öà‡.
+vsquid:S1192"RDefine a constant instead of duplicating this literal "TLPRefinance_Void" 3 times.(ö¨™ÿÿÿÿÿ8ãÈÊ®ˆ.
+‚squid:S1192t"dDefine a constant instead of duplicating this literal "Clicked on Finish Void Loan button " 8 times.(Ò¥ë8¦¾ğÃ‡.
+vsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(”Çõ¾ûÿÿÿÿ8ø¶Öà‡.
+vsquid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ùú»8ãÈÊ®ˆ.
+Qsquid:S1172Š"-Remove this unused method parameter "AppURL".(ß Â÷úÿÿÿÿ8¦¾ğÃ‡.
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÄ²üüÿÿÿÿ8¦¾ğÃ‡.
+{squid:S00117Ğ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åî¯¤úÿÿÿÿ8¦¾ğÃ‡.
+‹squid:S1192³"gDefine a constant instead of duplicating this literal "Clicked on Finish Void Deposit button " 4 times.(Üå»Àıÿÿÿÿ8ø¶Öà‡.
+Wsquid:S1197­"8Move the array designator from the variable to the type.(åï©ñ8¦¾ğÃ‡.
+ssquid:S1192‚"ODefine a constant instead of duplicating this literal "Refinance_Void" 4 times.(ãÍƒÍùÿÿÿÿ8ø¶Öà‡.
+zsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ø¶Öà‡.
+Y
+squid:S106Ò";Replace this usage of System.out or System.err by a logger.(¶÷ÿÑ8¦¾ğÃ‡.
+vsquid:S00117É"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ÷Ö³8”øñ°.
+Qsquid:S1199ş"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8¦¾ğÃ‡.
+ysquid:S1192g"\Define a constant instead of duplicating this literal "Tender type is entered as " 28 times.(ï»Í^8¦¾ğÃ‡.
+—squid:S1192^"yDefine a constant instead of duplicating this literal "Clicked on Go button under Transaction selection section" 4 times.(»¦öø8ø¶Öà‡.
+{squid:S00117¤"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8¦¾ğÃ‡.
+ksquid:S1192M"HDefine a constant instead of duplicating this literal "submit1" 4 times.(ãÒÌ—şÿÿÿÿ8ø¶Öà‡.
+ysquid:S1192‘"UDefine a constant instead of duplicating this literal "requestBean.password" 6 times.(ŞºÈÔÿÿÿÿÿ8ø¶Öà‡.
+xsquid:S1132ö"TMove the "Refinance_Void" string literal on the left side of this string comparison.(ãÍƒÍùÿÿÿÿ8ø¶Öà‡.
+{squid:S00117‚"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Çõ¾ûÿÿÿÿ8ø¶Öà‡.
+{squid:S00117Ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8ãÈÊ®ˆ.
+vsquid:S00117¥"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ùú»8ãÈÊ®ˆ.
+msquid:S1192;"PDefine a constant instead of duplicating this literal "li[id='910000']" 8 times.(ÀÕºE8¦¾ğÃ‡.
+nsquid:S1192j"PDefine a constant instead of duplicating this literal "Paymentamt is :" 4 times.(œ÷¢’8ø¶Öà‡.
+jsquid:S1192Q"GDefine a constant instead of duplicating this literal "button" 4 times.(óª€¸øÿÿÿÿ8ø¶Öà‡.
+‰squid:S11922"fDefine a constant instead of duplicating this literal "/html/body/blink/table/tbody/tr/td[4]" 4 times.(æ‘¡Üøÿÿÿÿ8ø¶Öà‡.
+xsquid:S1132‚"TMove the "Refinance_Void" string literal on the left side of this string comparison.(ãÍƒÍùÿÿÿÿ8¦¾ğÃ‡.
+osquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(¶õ¸ûÿÿÿÿ8ãÈÊ®ˆ.
+ssquid:S1192D"PDefine a constant instead of duplicating this literal "li[id='911101']" 4 times.(Ö«´»ûÿÿÿÿ8ø¶Öà‡.

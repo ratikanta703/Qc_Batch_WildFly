@@ -1,0 +1,71 @@
+
+qsquid:S1192‘"TDefine a constant instead of duplicating this literal "requestBean.chkName" 4 times.(±²ìöùÿÿÿÿ
+dsquid:S1854Ğ"GRemove this useless assignment to local variable "encryption_store_no".(ŠÜøûÿÿÿÿ
+Qsquid:S1141="5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Bsquid:S1166³"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êêò
+_squid:S12264"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+lsquid:S00100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÔÀÇşÿÿÿÿ
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+csquid:S1854-"GRemove this useless assignment to local variable "encryption_store_no".(ŠÜøûÿÿÿÿ
+>squid:S1481K"'Remove this unused "df" local variable.(©Âìü
+Nsquid:S1854î"6Remove this useless assignment to local variable "df".(©Âìü
+nsquid:S00117Ñ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+Osquid:S1135×"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+?squid:S1481+"(Remove this unused "PIN" local variable.(¿âĞ¬
+Jsquid:S1172½"-Remove this unused method parameter "AppURL".(ïÔÀÇşÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+@squid:S1481Î"(Remove this unused "PIN" local variable.(¿âĞ¬
+<squid:S1166A"%Either log or rethrow this exception.(”ı¾
+Msquid:S1854K"6Remove this useless assignment to local variable "df".(©Âìü
+o
+squid:S135Æ"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	
+Isquid:S1135B"2Complete the task associated to this TODO comment.(‡ñÅ¼
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¶¨£
+n
+squid:S135$"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÒ	
+tsquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÔÀÇşÿÿÿÿ
+tsquid:S00117Ğ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜøûÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+=squid:S1166ä"%Either log or rethrow this exception.(”ı¾
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜøûÿÿÿÿ
+bsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(µª™®
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+Jsquid:S1135å"2Complete the task associated to this TODO comment.(‡ñÅ¼
+nsquid:S00117Ï"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‰ö*
+Osquid:S1854Î"7Remove this useless assignment to local variable "PIN".(¿âĞ¬
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(‰¶¨£
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¶¨£
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¶¨£
+Bsquid:S1166Ö"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+j
+squid:S134à"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Usquid:S1481Ğ"8Remove this unused "encryption_store_no" local variable.(ŠÜøûÿÿÿÿ
+osquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœ‚²şÿÿÿÿ
+osquid:S00117Î"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+fsquid:S1192l"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ
+csquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+`squid:S1226×"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+Nsquid:S1854+"7Remove this useless assignment to local variable "PIN".(¿âĞ¬
+?squid:S1481î"'Remove this unused "df" local variable.(©Âìü
+msquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+Osquid:S1135´"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Tsquid:S1481-"8Remove this unused "encryption_store_no" local variable.(ŠÜøûÿÿÿÿ
+csquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(µª™®
+tsquid:S00117½"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÔÀÇşÿÿÿÿ
+j
+squid:S134´"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(±²ìöùÿÿÿÿ
+j
+squid:S134‘"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(±²ìöùÿÿÿÿ
+Rsquid:S1141à"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+i
+squid:S134="NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(µ»ºÓûÿÿÿÿ8‹Á¸Ö¹.
+osquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(Ğ‡Œüÿÿÿÿ8‹Á¸Ö¹.

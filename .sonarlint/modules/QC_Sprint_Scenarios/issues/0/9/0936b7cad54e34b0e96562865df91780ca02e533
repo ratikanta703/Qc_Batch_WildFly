@@ -1,0 +1,58 @@
+
+ssquid:S001179"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢ŞÔıÿÿÿÿ
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+Gsquid:S1444""+Make this "public static State" field final(¿Î‚Ïùÿÿÿÿ
+Osquid:S1135•"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+Bsquid:S1166”"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+d
+squid:S134L"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—„×Úùÿÿÿÿ
+Asquid:S1444#"*Make this "public static SSN1" field final(úØÍ¿
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê ÚÆúÿÿÿÿ
+@squid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S3008%"ORename this field "SSN3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÓÀŠúÿÿÿÿ
+Fsquid:S1444%"*Make this "public static SSN3" field final(®ÓÀŠúÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Î÷Ú
+d
+squid:S134s"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+@squid:S1444$"*Make this "public static SSN2" field final(é’¡
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ò‹£×
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“¶¬
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+^squid:UselessImportCheck	":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+gsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+Qsquid:S1141U"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+fsquid:S1192\"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ
+Zsquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+lsquid:S3008""PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Î‚Ïùÿÿÿÿ
+fsquid:S3008#"ORename this field "SSN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úØÍ¿
+jsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ĞÍ¡¾8ÊŸ‘¹.
+~"squid:ClassVariableVisibilityCheck#"PMake SSN1 a static final constant or non-public and provide accessors if needed.(úØÍ¿
+nsquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šé­¢
+Asquid:S1166d"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(£±åÆÿÿÿÿÿ
+esquid:S3008$"ORename this field "SSN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’¡
+Dsquid:S1172+"-Remove this unused method parameter "AppURL".(Ş“¶¬
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+nsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş“¶¬
+„"squid:ClassVariableVisibilityCheck""QMake State a static final constant or non-public and provide accessors if needed.(¿Î‚Ïùÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck$"PMake SSN2 a static final constant or non-public and provide accessors if needed.(é’¡
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(‰²§–ıÿÿÿÿ
+i
+squid:S134U"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ç£êúÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck%"PMake SSN3 a static final constant or non-public and provide accessors if needed.(®ÓÀŠúÿÿÿÿ

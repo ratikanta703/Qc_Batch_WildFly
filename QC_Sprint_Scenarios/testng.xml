@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <groups>																																																	
+  <run>
+
+	
+        <!-- Ratikanta Sprint Scenarios Group-->  
+                
+   
+                   <!-- <include name="Ratikanta_Sprint1_REQ_564"/> -->  
+               <include name="Ratikanta_Sprint1_REQ_572"/>  
+              <!-- <include name="Ratikanta_Sprint2_REQ_601_MOPDL"/> --> 
+          
+        
+      
+        
+        
+  
+
+
+
+  </run>
+  </groups> 
+   <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

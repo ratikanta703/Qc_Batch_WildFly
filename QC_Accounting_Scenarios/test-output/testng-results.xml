@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="23" total="24" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="867037" started-at="2020-12-10T04:55:14Z" finished-at="2020-12-10T05:09:41Z">
+    <groups>
+      <group name="Ratikanta_LAPDL_Accounting">
+        <method signature="QCStore.QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata()[pri:8, instance:tests.QCStore@5f9d02cb]" name="QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_LAPDL_Accounting -->
+    </groups>
+    <test name="Test" duration-ms="867037" started-at="2020-12-10T04:55:14Z" finished-at="2020-12-10T05:09:41Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="89" started-at="2020-12-10T04:55:14Z" finished-at="2020-12-10T04:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="5013" started-at="2020-12-10T04:55:14Z" finished-at="2020-12-10T04:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata()[pri:8, instance:tests.QCStore@5f9d02cb]" name="QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata" duration-ms="861208" started-at="2020-12-10T04:55:19Z" finished-at="2020-12-10T05:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@5f9d02cb]" name="endReport" is-config="true" duration-ms="0" started-at="2020-12-10T05:09:41Z" finished-at="2020-12-10T05:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="710" started-at="2020-12-10T05:09:41Z" finished-at="2020-12-10T05:09:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata status=SUCCESS method=QCStore.QC_LAPDL_DCDeposit_Return_Redeposit_Txn_Testdata()[pri:8, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

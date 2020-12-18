@@ -1,0 +1,87 @@
+
+gsquid:S20772"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ
+gsquid:S20779"P"schedule_id" is provided externally to the method and not sanitized before use.(¿µûö
+nsquid:S2077—"Q"schedule_id1" is provided externally to the method and not sanitized before use.(¯Ä¸Çûÿÿÿÿ
+nsquid:S2077"Q"schedule_id1" is provided externally to the method and not sanitized before use.(õÎ©‰üÿÿÿÿ
+4squid:S2095!"Close this "Connection".(è½üúÿÿÿÿ
+.squid:S20959"Close this "ResultSet".(¿µûö
+4squid:S2095"Close this "Statement".(Ùıôºøÿÿÿÿ
+/squid:S2095"Close this "Statement".(Êë‹
+4squid:S2095—"Close this "ResultSet".(¯Ä¸Çûÿÿÿÿ
+.squid:S20952"Close this "ResultSet".(¿ûñ
+3squid:S2095,"Close this "Statement".(Ùıôºøÿÿÿÿ
+4squid:S2095"Close this "ResultSet".(õÎ©‰üÿÿÿÿ
+.squid:S2095+"Close this "Statement".(Êë‹
+5squid:S2095ƒ"Close this "Connection".(Ôàšûÿÿÿÿ
+Nsquid:S1313!"2Make this IP "192.168.2.241" address configurable.(è½üúÿÿÿÿ
+Osquid:S1313ƒ"2Make this IP "192.168.2.241" address configurable.(Ôàšûÿÿÿÿ
+bsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÄÚ¯Ä
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(„Îé´ùÿÿÿÿ
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(„Îé´ùÿÿÿÿ
+Q
+squid:S106&";Replace this usage of System.out or System.err by a logger.(£„ä«
+Q
+squid:S1064";Replace this usage of System.out or System.err by a logger.(ıË³›
+V
+squid:S106R";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+V
+squid:S106p";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+R
+squid:S106‰";Replace this usage of System.out or System.err by a logger.(£„ä«
+R
+squid:S106š";Replace this usage of System.out or System.err by a logger.(ıË³›
+W
+squid:S106´";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+W
+squid:S106Ñ";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Zsquid:S2583Y"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+[squid:S2583º"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Zsquid:S2583`"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Zsquid:S2583g"CChange this condition so that it does not always evaluate to "true"(¡ææú
+[squid:S2583Á"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+[squid:S2583È"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Qsquid:S1141Z"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141a"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141h"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141»"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141Â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Fsquid:S1481"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+Fsquid:S1481z"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ØÅÃ·
+Wsquid:S2259"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+Vsquid:S2259+"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+<squid:S1166\"%Either log or rethrow this exception.(”ı¾
+<squid:S1166c"%Either log or rethrow this exception.(”ı¾
+<squid:S1166j"%Either log or rethrow this exception.(”ı¾
+=squid:S1166½"%Either log or rethrow this exception.(”ı¾
+=squid:S1166Ä"%Either log or rethrow this exception.(”ı¾
+=squid:S1166Ë"%Either log or rethrow this exception.(”ı¾
+Asquid:S00108\")Either remove or fill this block of code.(”ı¾
+Asquid:S00108c")Either remove or fill this block of code.(”ı¾
+Asquid:S00108j")Either remove or fill this block of code.(”ı¾
+Bsquid:S00108½")Either remove or fill this block of code.(”ı¾
+Bsquid:S00108Ä")Either remove or fill this block of code.(”ı¾
+Bsquid:S00108Ë")Either remove or fill this block of code.(”ı¾
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+Usquid:S1854,"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+Ysquid:S1854F"=Remove this useless assignment to local variable "statusId1".(â›²Şûÿÿÿÿ
+Ssquid:S1854E"<Remove this useless assignment to local variable "statusId".(¨„ò¾
+Ysquid:S1854|"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Usquid:S1854z"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+Osquid:S1854y"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+Vsquid:S1854"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ
+Xsquid:S1854©";Remove this useless assignment to local variable "status1".(‘»¾¤øÿÿÿÿ
+Rsquid:S1854¨":Remove this useless assignment to local variable "status".(à–Ò
+nsquid:S00117."VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áş ½
+osquid:S00117“"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉ—¶
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+?squid:S1148'"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+?squid:S1148q"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+@squid:S1148Š"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148Ò"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+–squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(´æÑæ
+–squid:S1160v"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ØĞÃÕ

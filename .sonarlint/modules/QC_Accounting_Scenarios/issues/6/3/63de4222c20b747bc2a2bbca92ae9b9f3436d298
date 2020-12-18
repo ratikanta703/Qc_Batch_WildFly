@@ -1,0 +1,43 @@
+
+jsquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(™ŠÐÒ8ŽÈÿÑø-
+Ksquid:S1172"-Remove this unused method parameter "AppURL".(ÇÈïÛ8¿õýÇø-
+jsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Ð‰ŸÃ8ŽÈÿÑø-
+zsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ8ÀõýÇø-
+vsquid:S00117³"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ŽÈÿÑø-
+Csquid:S1166"%Either log or rethrow this exception.(¬Ù¨Í8¿õýÇø-
+{squid:S00117ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Óó¯øÿÿÿÿ8ŽÈÿÑø-
+Osquid:S1481"1Remove this unused "last4cheknum" local variable.(ˆ¿ðÎ8¿õýÇø-
+{squid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝøúÇýÿÿÿÿ8ŽÈÿÑø-
+vsquid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ŽÈÿÑø-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÈïÛ8ÀõýÇø-
+Dsquid:S1166"%Either log or rethrow this exception.(¬Ù¨Í8ŽÈÿÑø-
+nsquid:S1192"KDefine a constant instead of duplicating this literal "ACHPayment" 4 times.(Ëˆãôüÿÿÿÿ8ŽÈÿÑø-
+usquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ÀõýÇø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ÀõýÇø-
+X
+squid:S106d";Replace this usage of System.out or System.err by a logger.(Ñ©‰²8¿õýÇø-
+^squid:S1854"@Remove this useless assignment to local variable "last4cheknum".(ˆ¿ðÎ8ÀõýÇø-
+zsquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ8ÀõýÇø-
+vsquid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯´É8ŽÈÿÑø-
+vsquid:S00117¯"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËòþÃ8ŽÈÿÑø-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËòþÃ8ÀõýÇø-
+osquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(ÐÜçôûÿÿÿÿ8ŽÈÿÑø-
+vsquid:S00117œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯´É8ŽÈÿÑø-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ8ÀõýÇø-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ð‰ŸÃ8¿õýÇø-
+usquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬8ÀõýÇø-
+_squid:S1854°"@Remove this useless assignment to local variable "last4cheknum".(ˆ¿ðÎ8ŽÈÿÑø-
+zsquid:S00117["VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Óó¯øÿÿÿÿ8ÀõýÇø-
+{squid:S00117¬"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8ŽÈÿÑø-
+{squid:S00117­"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÞ³¨ÿÿÿÿÿ8ŽÈÿÑø-
+{squid:S00117´"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îþÿÿÿÿ8ŽÈÿÑø-
+vsquid:S00117²"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬8ŽÈÿÑø-
+“squid:S1192["ïDefine a constant instead of duplicating this literal "/html/body/form[1]/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[2]/table/tbody/tr[7]/td[1]/table[2]/tbody/tr[1]/td/table/tbody/tr[1]/td[3]/input" 3 times.(¤Óó¯øÿÿÿÿ8ŽÈÿÑø-
+nsquid:S1192-"KDefine a constant instead of duplicating this literal "mainFrame" 10 times.(ËøÇªýÿÿÿÿ8¿õýÇø-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ÀõýÇø-
+Lsquid:S1172œ"-Remove this unused method parameter "AppURL".(›¯´É8ŽÈÿÑø-
+fsquid:S00112œ"FDefine and throw a dedicated exception instead of using a generic one.(›¯´É8ŽÈÿÑø-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÈïÛ8ÀõýÇø-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÇÈïÛ8¿õýÇø-
+Psquid:S1481°"1Remove this unused "last4cheknum" local variable.(ˆ¿ðÎ8ŽÈÿÑø-
+zsquid:S00117^"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÜçôûÿÿÿÿ8ÀõýÇø-

@@ -1,0 +1,65 @@
+
+{squid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΪΧΧώωÿÿÿÿ8ώλη©.
+msquid:S1192^"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ΛψΗªύÿÿÿÿ8ώλη©.
+Y
+squid:S106Σ";Replace this usage of System.out or System.err by a logger.(µΊ¦£8ώλη©.
+vsquid:S00117Έ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥΄Ωύ8ώλη©.
+jsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ΐοΛπ8ώλη©.
+Nsquid:S00108π")Either remove or fill this block of code.(ρ“±όÿÿÿÿ8ώλη©.
+{squid:S00117Η"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φ–Οοωÿÿÿÿ8ώλη©.
+vsquid:S00117Θ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΅ΉΔε8ώλη©.
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§‰θιώÿÿÿÿ8ώλη©.
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ΡΙ„‚ϋÿÿÿÿ8ώλη©.
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Υψλ8ώλη©.
+^
+squid:S106Ί";Replace this usage of System.out or System.err by a logger.(Ώσξύÿÿÿÿ8ώλη©.
+Y
+squid:S106Ο";Replace this usage of System.out or System.err by a logger.(ο“–Γ8ώλη©.
+zsquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έψϊΗύÿÿÿÿ8ώλη©.
+hsquid:S1132"IMove the "LOC" string literal on the left side of this string comparison.(ΥΌΰψ8ώλη©.
+usquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ϊ±Όÿÿÿÿÿ8ώλη©.
+jsquid:CommentedOutCodeLineϋ"<This block of commented-out lines of code should be removed.(€ύί8ώλη©.
+Qsquid:S1199•"-Extract this nested code block into a method.(ÒΜβ–ψÿÿÿÿ8ώλη©.
+isquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ΡΉΝξ8ώλη©.
+gsquid:S1132‡"IMove the "TLP" string literal on the left side of this string comparison.(§Ωs8ώλη©.
+nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(›»½•ψÿÿÿÿ8ώλη©.
+Vsquid:S1135Λ"2Complete the task associated to this TODO comment.(ΥΜ®ώÿÿÿÿ8ώλη©.
+asquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(ΐγ¥‰8ώλη©.
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ΚΆώΰÿÿÿÿÿ8ώλη©.
+\squid:S1197Η"8Move the array designator from the variable to the type.(φ–Οοωÿÿÿÿ8ώλη©.
+osquid:CommentedOutCodeLineΛ"<This block of commented-out lines of code should be removed.(—Ϋσδϋÿÿÿÿ8ώλη©.
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.( „ΚΊ8ώλη©.
+{squid:S00117±"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ίΧώÿÿÿÿ8ώλη©.
+^
+squid:S106Α";Replace this usage of System.out or System.err by a logger.(€σσ€όÿÿÿÿ8ώλη©.
+usquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ορ©8ώλη©.
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϊ±Όÿÿÿÿÿ8ώλη©.
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ώΧόƒÿÿÿÿÿ8ώλη©.
+zsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϊ±Όÿÿÿÿÿ8ώλη©.
+osquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(§‰θιώÿÿÿÿ8ώλη©.
+zsquid:S00117E"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÿΕƒωÿÿÿÿ8ώλη©.
+zsquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(νν‡ÿÿÿÿÿ8ώλη©.
+ksquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰οµ”ώÿÿÿÿ8ώλη©.
+usquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γ–Ò8ώλη©.
+Y
+squid:S106Ι";Replace this usage of System.out or System.err by a logger.(ε¬«8ώλη©.
+nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ΩΧΖϊÿÿÿÿ8ώλη©.
+esquid:S00101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(γ‹•
+Isquid:S1166π"%Either log or rethrow this exception.(ρ“±όÿÿÿÿ8ώλη©.
+Qsquid:S1199"-Extract this nested code block into a method.(ÒΜβ–ψÿÿÿÿ8ώλη©.
+osquid:CommentedOutCodeLineΖ"<This block of commented-out lines of code should be removed.(‹½΅υόÿÿÿÿ8ώλη©.
+p
+squid:S134="NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ή‘ιÿÿÿÿÿ8ώλη©.
+zsquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ό¶„Ξώÿÿÿÿ8ώλη©.
+usquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρ†ν8ώλη©.
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Θ’Μώÿÿÿÿ8ώλη©.
+jsquid:CommentedOutCodeLineΎ"<This block of commented-out lines of code should be removed.(ΓήΖ†8ώλη©.
+Gsquid:S1481Ρ")Remove this unused "list" local variable.(ΜφΌ8ώλη©.
+isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(μΉ8ώλη©.
+vsquid:S00117΄"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Γη―8ώλη©.
+Vsquid:S1854Ρ"8Remove this useless assignment to local variable "list".(ΜφΌ8ώλη©.
+isquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.( „ΚΊ8ώλη©.
+tsquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥χσ8ώλη©.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ψξΏώÿÿÿÿ8ώλη©.
+msquid:S1132‚"IMove the "PDL" string literal on the left side of this string comparison.(Ό¶Έ›ϊÿÿÿÿ8ώλη©.
+jsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(‘νίΧ8ώλη©.

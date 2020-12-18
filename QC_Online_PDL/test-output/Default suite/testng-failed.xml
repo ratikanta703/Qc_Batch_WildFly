@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.RAdmin_Repo_Validation">
+        <methods>
+          <include name="QC_Accounting_Deposit_Return_NSFPayment_WithWaive_Txn_Testdata"/>
+          <include name="getResult"/>
+          <include name="setup"/>
+          <include name="QC_Accounting_Deposit_Return_NSFPayment_WithoutWaive_Void_Txn_Testdata"/>
+          <include name="QC_LOC_Default_Repo_Refinance_Txn_Testdata"/>
+          <include name="QC_Accounting_TexasPDL_Loan_Txn_Testdata"/>
+          <include name="endReport"/>
+          <include name="QC_Payment_Payment2_BuyBack_ChargeBack_Txn_Testdata"/>
+          <include name="killProcess"/>
+        </methods>
+      </class> <!-- tests.RAdmin_Repo_Validation -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

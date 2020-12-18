@@ -1,0 +1,118 @@
+
+Msquid:S1481"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ8†š™ú-
+;squid:S2095+"Close this "Connection".(Ôàšûÿÿÿÿ8×’õö‚.
+l
+squid:S134Ï"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(±”Ìï8†š™ú-
+`squid:S1854""=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ8†š™ú-
+Isquid:S00108Ù")Either remove or fill this block of code.(”ı¾8Ì¥—ú-
+Isquid:S00108Ò")Either remove or fill this block of code.(”ı¾8†š™ú-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÏôÃ8Ì¥—ú-
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(²ÈÊ±8Ì¥—ú-
+squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(àÏôÃ8Ì¥—ú-
+Dsquid:S1166Ò"%Either log or rethrow this exception.(”ı¾8†š™ú-
+nsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(Ëçåúÿÿÿÿ8è¾Ùšú-
+Dsquid:S1166Ù"%Either log or rethrow this exception.(”ı¾8Ì¥—ú-
+l
+squid:S134È"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ŒÖÄî8†š™ú-
+bsquid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©8öŒÀú-
+asquid:S2583Z"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî8Ì¥—ú-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò´ı8†š™ú-
+X
+squid:S1063";Replace this usage of System.out or System.err by a logger.(£„ä«8Í¾œú-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ò´ı8†š™ú-
+Y
+squid:S106­";Replace this usage of System.out or System.err by a logger.(£„ä«8Í¾œú-
+Hsquid:S00108]")Either remove or fill this block of code.(”ı¾8Ì¥—ú-
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(î¥®°ùÿÿÿÿ8¤••¥.
+X
+squid:S106B";Replace this usage of System.out or System.err by a logger.(§ñ›8Ì¥—ú-
+Ysquid:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ì¥—ú-
+Qsquid:S1481"".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ8Ì¥—ú-
+Csquid:S1166k"%Either log or rethrow this exception.(”ı¾8†š™ú-
+;squid:S2095¾"Close this "ResultSet".(˜Òı¦úÿÿÿÿ8†š™ú-
+vsquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8†š™ú-
+Gsquid:S1148®"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Ì¥—ú-
+Hsquid:S00108d")Either remove or fill this block of code.(”ı¾8Ì¥—ú-
+:squid:S20959"Close this "Statement".(Ùıôºøÿÿÿÿ8†š™ú-
+hsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ïØ[8Ç¯Ô›ú-
+[squid:S1197="8Move the array designator from the variable to the type.(ª‰ú²üÿÿÿÿ8«×˜šú-
+Ysquid:S1141É"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ì¥—ú-
+Csquid:S1166]"%Either log or rethrow this exception.(”ı¾8Ì¥—ú-
+6squid:S2095²"Close this "Statement".(Êë‹8†š™ú-
+zsquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª‰ú²üÿÿÿÿ8«×˜šú-
+:squid:S2095M"Close this "ResultSet".(•şˆ¡øÿÿÿÿ8«×˜šú-
+asquid:S1854‹"=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ8Ì¥—ú-
+zsquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ8«×˜šú-
+Fsquid:S1148r"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8†š™ú-
+Dsquid:S1166Ë"%Either log or rethrow this exception.(”ı¾8Ì¥—ú-
+5squid:S2095¸"Close this "ResultSet".( ùú8†š™ú-
+Usquid:S1313+"2Make this IP "192.168.2.241" address configurable.(Ôàšûÿÿÿÿ8Ì¥—ú-
+^
+squid:S106ß";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ8†š™ú-
+_squid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ8öŒÀú-
+Xsquid:S1141["5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8†š™ú-
+]squid:S1854…"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ8Ì¥—ú-
+nsquid:S2077R"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ8Ì¥—ú-
+Fsquid:S11484"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Ì¥—ú-
+Isquid:S00108Ë")Either remove or fill this block of code.(”ı¾8†š™ú-
+l
+squid:S134Ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡ææú8†š™ú-
+usquid:S00117A"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇšŞ†8«×˜šú-
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Òâ»¼şÿÿÿÿ8×’õö‚.
+zsquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ8«×˜šú-
+5squid:S20958"Close this "Statement".(Êë‹8Ì¥—ú-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ŞÕÆÿÿÿÿÿ
+Csquid:S1166d"%Either log or rethrow this exception.(”ı¾8†š™ú-
+Nsquid:S1481…"*Remove this unused "stmt2" local variable.(îĞ«˜ùÿÿÿÿ8Ì¥—ú-
+6squid:S2095Â"Close this "ResultSet".(´íöÆ8¨ƒø™ú-
+osquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(Òâ»¼şÿÿÿÿ8Îºøö‚.
+Msquid:S1481™")Remove this unused "SSN2" local variable.(ü¶„Îşÿÿÿÿ8†š™ú-
+Gsquid:S1148à"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8†š™ú-
+Hsquid:S00108k")Either remove or fill this block of code.(”ı¾8†š™ú-
+{squid:S00117–"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÕºüÿÿÿÿ8¨ƒø™ú-
+squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ò´ı8†š™ú-
+^squid:S1854µ"?Remove this useless assignment to local variable "schedule_id".(®ò³Ò8†š™ú-
+usquid:S00117E"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò8Ì¥—ú-
+;squid:S2095³"Close this "Statement".(Ùıôºøÿÿÿÿ8Ì¥—ú-
+asquid:S2583a"CChange this condition so that it does not always evaluate to "true"(±”Ìï8Ì¥—ú-
+]squid:S1854³"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ8†š™ú-
+Wsquid:S1854„"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡8†š™ú-
+vsquid:S00117“"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8†š™ú-
+Xsquid:S1141b"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8†š™ú-
+]squid:S22598"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8Ì¥—ú-
+Vsquid:S1313¤"2Make this IP "192.168.2.241" address configurable.(Ôàšûÿÿÿÿ8†š™ú-
+Osquid:S1481µ"0Remove this unused "schedule_id" local variable.(®ò³Ò8†š™ú-
+isquid:S2077Â"J"Insta" is provided externally to the method and not sanitized before use.(´íöÆ8¨ƒø™ú-
+jsquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(“«¹8—Æú-
+Wsquid:S1854˜"8Remove this useless assignment to local variable "SSN1".(Ã–Ò8†š™ú-
+Ysquid:S1141Ğ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ì¥—ú-
+Hsquid:S1481˜")Remove this unused "SSN1" local variable.(Ã–Ò8†š™ú-
+\squid:S18549"9Remove this useless assignment to local variable "stmt2".(Ùıôºøÿÿÿÿ8Ì¥—ú-
+^squid:UselessImportCheck"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8«×˜šú-
+{squid:S00117™"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8†š™ú-
+vsquid:S00117µ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò8†š™ú-
+Msquid:S1481š")Remove this unused "SSN3" local variable.(İøúÇıÿÿÿÿ8†š™ú-
+4squid:S2095G"Close this "ResultSet".( ùú8«×˜šú-
+osquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(—ê”ˆûÿÿÿÿ8—Æú-
+jsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ÜâÄ²8—Æú-
+Xsquid:S1141i"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8†š™ú-
+Vsquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡8Ì¥—ú-
+nsquid:S2077¾"J"Insta" is provided externally to the method and not sanitized before use.(˜Òı¦úÿÿÿÿ8¨ƒø™ú-
+l
+squid:S134º"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Œ‡Ü‘8†š™ú-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²ÈÊ±8†š™ú-
+]
+squid:S106q";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ8†š™ú-
+Rsquid:S1481‹".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ8†š™ú-
+\squid:S1854š"8Remove this useless assignment to local variable "SSN3".(İøúÇıÿÿÿÿ8†š™ú-
+osquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(î¥®°ùÿÿÿÿ8¤••¥.
+{squid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8†š™ú-
+<squid:S2095¤"Close this "Connection".(Ôàšûÿÿÿÿ8Îºøö‚.
+asquid:S2583h"CChange this condition so that it does not always evaluate to "true"(¡ææú8Ì¥—ú-
+\squid:S1854™"8Remove this useless assignment to local variable "SSN2".(ü¶„Îşÿÿÿÿ8†š™ú-
+`squid:S1854!"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ8«×˜šú-
+\squid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ8†š™ú-
+5squid:S2095R"Close this "ResultSet".(¿ûñ8Ì¥—ú-
+zsquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚şÿÿÿÿ8«×˜šú-
+asquid:S1854Š"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ8†š™ú-
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ò…–ÿøÿÿÿÿ8«×˜šú-

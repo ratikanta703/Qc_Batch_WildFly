@@ -1,0 +1,45 @@
+
+usquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ8ç¾š…ˆ.
+zsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œü×±ûÿÿÿÿ8ç¾š…ˆ.
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ÉÃÞ“ÿÿÿÿÿ8ç¾š…ˆ.
+zsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâýÿÿÿÿ8ç¾š…ˆ.
+Fsquid:S1481*"(Remove this unused "PIN" local variable.(¿âÐ¬8ç¾š…ˆ.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËËåÉ
+isquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(´ì¬§8ç¾š…ˆ.
+p
+squid:S134D"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8ç¾š…ˆ.
+asquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8ç¾š…ˆ.
+p
+squid:S1341"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(úäìÅÿÿÿÿÿ8ç¾š…ˆ.
+tsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)8ç¾š…ˆ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°«¨8ç¾š…ˆ.
+usquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âÐ¬8ç¾š…ˆ.
+Gsquid:S1148½"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ç¾š…ˆ.
+Psquid:S1135I"2Complete the task associated to this TODO comment.(‡ñÅ¼8ç¾š…ˆ.
+usquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íô²Ž8ç¾š…ˆ.
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj8ç¾š…ˆ.
+Csquid:S1166H"%Either log or rethrow this exception.(”ý¾8ç¾š…ˆ.
+Tsquid:S13137"1Make this IP "192.168.2.66" address configurable.(Œü×±ûÿÿÿÿ8ç¾š…ˆ.
+Ksquid:S1172"-Remove this unused method parameter "AppURL".(ß÷¨½8ç¾š…ˆ.
+jsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(¬Àñ¬8ž©¿½.
+Xsquid:S1141D"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ç¾š…ˆ.
+Isquid:S1166»"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ8ç¾š…ˆ.
+Tsquid:S1854R"6Remove this useless assignment to local variable "df".(©Âìü8ç¾š…ˆ.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß÷¨½8ç¾š…ˆ.
+msquid:S1192w"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ8ç¾š…ˆ.
+`squid:UselessImportCheck
+"5Remove this unused import 'org.openqa.selenium.Keys'.(§ŽÕ8ç¾š…ˆ.
+nsquid:S11321"KMove the "local" string literal on the left side of this string comparison.(úäìÅÿÿÿÿÿ8ç¾š…ˆ.
+Usquid:S1854*"7Remove this useless assignment to local variable "PIN".(¿âÐ¬8ç¾š…ˆ.
+Esquid:S1481R"'Remove this unused "df" local variable.(©Âìü8ç¾š…ˆ.
+k
+squid:S134q"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ƒÛÕá8ç¾š…ˆ.
+gsquid:S1132q"IMove the "ACH" string literal on the left side of this string comparison.(ƒÛÕá8ç¾š…ˆ.
+rsquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ8ç¾š…ˆ.
+Vsquid:S1135¼"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8ç¾š…ˆ.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß÷¨½8ç¾š…ˆ.
+ssquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä8ç¾š…ˆ.
+osquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ç¾š…ˆ.
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ç¾š…ˆ.
+usquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ç¾š…ˆ.
+nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(µ»ºÓûÿÿÿÿ8µ™µÖ¹.

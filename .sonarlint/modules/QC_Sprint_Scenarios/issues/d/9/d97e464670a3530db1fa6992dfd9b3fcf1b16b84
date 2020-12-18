@@ -1,0 +1,36 @@
+
+ˆsquid:S1192L"qDefine a constant instead of duplicating this literal "Entered the Second Signature field details as : " 4 times.(Ÿ¿ÛÛ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šøî¿şÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ƒ€Ş²üÿÿÿÿ
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(„ô¬øÿÿÿÿ
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(Œå­õùÿÿÿÿ
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ÀÂøŒÿÿÿÿÿ
+bsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(½Åğ”
+bsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(û¾¹ú
+bsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(½Åğ”
+bsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(òïšÃ
+bsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(½Æ¨–
+hsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(©ŞæÇùÿÿÿÿ
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ŠÖ²†ùÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôÓš
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(°ŒÇ
+csquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(íã¥À
+hsquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(ÕûŠùÿÿÿÿ
+c
+squid:S134t"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(à´
+P
+squid:S106+";Replace this usage of System.out or System.err by a logger.(Æ©
+W
+squid:S106³";Replace this usage of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+Ksquid:S1481±"3Remove this unused "screenshotPath" local variable.(ÿøÿ³
+Isquid:S1172"-Remove this unused method parameter "AppURL".(â®óûşÿÿÿÿ
+Zsquid:S1854±"BRemove this useless assignment to local variable "screenshotPath".(ÿøÿ³
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®óûşÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â®óûşÿÿÿÿ
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¥¥şÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“±ÉÒúÿÿÿÿ
+nsquid:S00117•"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çœ˜?
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó

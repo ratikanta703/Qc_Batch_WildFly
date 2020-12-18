@@ -1,0 +1,96 @@
+
+bsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ßì‹ş
+e
+squid:S134Æ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(’ºÉ
+hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(à¹ïÕüÿÿÿÿ
+Esquid:S1481F")Remove this unused "DOE3" local variable.(ùö²Èúÿÿÿÿ
+Bsquid:S1166Ø"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:S00117J"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìÀ·
+ssquid:S00117I"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÎ£Ñúÿÿÿÿ
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿá÷´
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı¢Óçûÿÿÿÿ
+Osquid:S1197;"8Move the array designator from the variable to the type.(ç”åË
+Tsquid:S1854="8Remove this useless assignment to local variable "DOB2".(İ‹Ğöúÿÿÿÿ
+_squid:S1854Ü"BRemove this useless assignment to local variable "screenshotPath".(äßˆåüÿÿÿÿ
+bsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(Ê¡®
+Nsquid:S1481M"8Remove this unused "ReferenceFirstNameB" local variable.(Û¨¡
+hsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(ÕûŠùÿÿÿÿ
+Psquid:S1481Ü"3Remove this unused "screenshotPath" local variable.(äßˆåüÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(èáÆ¡şÿÿÿÿ
+ssquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â­¿ùÿÿÿÿÿ
+Esquid:S1481=")Remove this unused "DOB2" local variable.(İ‹Ğöúÿÿÿÿ
+Gsquid:S1481P"+Remove this unused "PhoneB" local variable.(ÀæĞùÿÿÿÿ
+osquid:S00117Ä"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–™Ú
+ssquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹Ğöúÿÿÿÿ
+Esquid:S1481<")Remove this unused "DOB1" local variable.(§ùÈˆùÿÿÿÿ
+msquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ÷ÿ|
+ssquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÑÚşüÿÿÿÿ
+nsquid:S00117?"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Î°ò
+@squid:S1481>")Remove this unused "DOB3" local variable.(“ö÷‡
+csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(¥ûü¢
+csquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(ß£Õò
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ªŸ¯å
+ssquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°åºùÿÿÿÿ
+ssquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«œÿÿÿÿÿ
+]squid:S1854N"FRemove this useless assignment to local variable "ReferenceLastNameB".(°Ëµ
+Vsquid:S1854P":Remove this useless assignment to local variable "PhoneB".(ÀæĞùÿÿÿÿ
+ssquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùö²Èúÿÿÿÿ
+msquid:S00117M"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¨¡
+nsquid:S00117O"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËòÇ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(‘ßşÛ
+hsquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ëß‘ƒøÿÿÿÿ
+Esquid:S1481D")Remove this unused "DOE1" local variable.(¦ß•ıÿÿÿÿ
+nsquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù—³í
+Tsquid:S1854F"8Remove this useless assignment to local variable "DOE3".(ùö²Èúÿÿÿÿ
+msquid:UselessImportCheck	"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+nsquid:S00117N"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ëµ
+Tsquid:S1854<"8Remove this useless assignment to local variable "DOB1".(§ùÈˆùÿÿÿÿ
+ssquid:S00117E"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÙÚ§şÿÿÿÿ
+hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ç‘Ş‚ıÿÿÿÿ
+e
+squid:S134Ê"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ñ©’Ó
+tsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áùíùÿÿÿÿÿ
+ssquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀæĞùÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(±¯€¤
+hsquid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(¼ûº¼ûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŞ›ıÿÿÿÿ
+nsquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç”åË
+msquid:S00117K"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¶õy
+]squid:S1854M"GRemove this useless assignment to local variable "ReferenceFirstNameB".(Û¨¡
+Osquid:S1854>"8Remove this useless assignment to local variable "DOB3".(“ö÷‡
+Osquid:S1197C"8Move the array designator from the variable to the type.(ò¹ÜŒ
+nsquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ö÷‡
+ssquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ß•ıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+W
+squid:S106§";Replace this usage of System.out or System.err by a logger.(˜¡¼•ıÿÿÿÿ
+csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(ôÅ…
+hsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(¬›¦‹ûÿÿÿÿ
+Tsquid:S1854E"8Remove this useless assignment to local variable "DOE2".(íÙÚ§şÿÿÿÿ
+gsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(¢’ıÛøÿÿÿÿ
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(™£°
+ssquid:S001178"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÚ£¡ûÿÿÿÿ
+ssquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ùÈˆùÿÿÿÿ
+hsquid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(Ùì×øÿÿÿÿ
+ssquid:S00117A"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Åëşÿÿÿÿ
+Esquid:S1481O".Remove this unused "RelationB" local variable.(ËòÇ
+nsquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¹ÜŒ
+bsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(€ˆj
+csquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(Š·¡Ì
+Esquid:S1481E")Remove this unused "DOE2" local variable.(íÙÚ§şÿÿÿÿ
+ssquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ãäÿÿÿÿÿ
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(¬›¦‹ûÿÿÿÿ
+Tsquid:S1854D"8Remove this useless assignment to local variable "DOE1".(¦ß•ıÿÿÿÿ
+gsquid:S1132Ê"OMove the "Wisconsin" string literal on the left side of this string comparison.(Ñ©’Ó
+Tsquid:S1854O"=Remove this useless assignment to local variable "RelationB".(ËòÇ
+jsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(çßé•8ÒøÌ¥.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŞ›ıÿÿÿÿ
+bsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(Ú«´ü
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(‰ğìøÿÿÿÿ
+W
+squid:S106Æ";Replace this usage of System.out or System.err by a logger.(ùÀù©ÿÿÿÿÿ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ıöÅúÿÿÿÿ
+Nsquid:S1481N"7Remove this unused "ReferenceLastNameB" local variable.(°Ëµ

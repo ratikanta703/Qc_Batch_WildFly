@@ -1,0 +1,57 @@
+
+Tsquid:S1197""8Move the array designator from the variable to the type.(Òù¦¦üÿÿÿÿ
+Tsquid:S1197#"8Move the array designator from the variable to the type.(Î°ÙÅùÿÿÿÿ
+rsquid:S3008"[Rename this field "VERIFICATION_FEE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŸ³®
+Msquid:S1444"6Make this "public static VERIFICATION_FEE" field final(áŸ³®
+4squid:S2095."Close this "Connection".(Ôàšûÿÿÿÿ
+.squid:S2095C"Close this "ResultSet".(ê¢ğ”
+.squid:S2095<"Close this "Statement".(Êë‹
+Nsquid:S1313."2Make this IP "192.168.2.241" address configurable.(Ôàšûÿÿÿÿ
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(øÃÊ¢ùÿÿÿÿ
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.( ºòüÿÿÿÿ
+asquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Ä˜\
+bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ü¾Ê´
+bsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(×ë•½
+Q
+squid:S1067";Replace this usage of System.out or System.err by a logger.(£„ä«
+Q
+squid:S106K";Replace this usage of System.out or System.err by a logger.(«ĞÁÎ
+Q
+squid:S106M";Replace this usage of System.out or System.err by a logger.(¿Ÿ¹Û
+V
+squid:S106T";Replace this usage of System.out or System.err by a logger.(îÍÁÌıÿÿÿÿ
+V
+squid:S106r";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ
+Zsquid:S2583i"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Zsquid:S2583["CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Zsquid:S2583b"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Qsquid:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141c"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"\Make VERIFICATION_FEE a static final constant or non-public and provide accessors if needed.(áŸ³®
+Jsquid:S1481 ".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ
+Fsquid:S1481!"/Remove this unused "rowValues2" local variable.(×·Æá
+Jsquid:S1481"".Remove this unused "total_sum" local variable.(Òù¦¦üÿÿÿÿ
+Gsquid:S1481#"+Remove this unused "stotal" local variable.(Î°ÙÅùÿÿÿÿ
+Vsquid:S2259<"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+<squid:S1166^"%Either log or rethrow this exception.(”ı¾
+<squid:S1166e"%Either log or rethrow this exception.(”ı¾
+<squid:S1166l"%Either log or rethrow this exception.(”ı¾
+Asquid:S00108^")Either remove or fill this block of code.(”ı¾
+Asquid:S00108e")Either remove or fill this block of code.(”ı¾
+Asquid:S00108l")Either remove or fill this block of code.(”ı¾
+Vsquid:S1854#":Remove this useless assignment to local variable "stotal".(Î°ÙÅùÿÿÿÿ
+Ysquid:S1854""=Remove this useless assignment to local variable "total_sum".(Òù¦¦üÿÿÿÿ
+Usquid:S1854!">Remove this useless assignment to local variable "rowValues2".(×·Æá
+Ysquid:S1854 "=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òù¦¦üÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
+Wsquid:UselessImportCheck"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+?squid:S11488"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+?squid:S1148s"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+›squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ÛŒĞÃøÿÿÿÿ

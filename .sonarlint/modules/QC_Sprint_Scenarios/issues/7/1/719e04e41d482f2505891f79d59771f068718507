@@ -1,0 +1,73 @@
+
+Ksquid:S1481r"(Remove this unused "ch1" local variable.(ÚÓ÷€ÿÿÿÿÿ8ò›ù†.
+{
+squid:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(Ö¯†¼ÿÿÿÿÿ8ÅÚ†.
+msquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¦‰ƒ8¬É†.
+usquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8È©˜ç….
+Msquid:S1444 "*Make this "public static SSN3" field final(®ÓÀŠúÿÿÿÿ8È©˜ç….
+Gsquid:S1444"*Make this "public static SSN2" field final(é’¡8È©˜ç….
+tsquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8È©˜ç….
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8¬É†.
+hsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(¥«38€ğê£.
+osquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(Ş‘·×úÿÿÿÿ8¬É†.
+Rsquid:S1481"3Remove this unused "Balance_Status" local variable.(ËÅ™ã8¬É†.
+Psquid:S1481",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8¬É†.
+asquid:UselessImportCheck
+"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8È©˜ç….
+lsquid:S1192$"IDefine a constant instead of duplicating this literal "New_Loan" 4 times.(…„¦’üÿÿÿÿ8¬É†.
+`squid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ8È©˜ç….
+Fsquid:S1481s"(Remove this unused "ch2" local variable.(’•·8ò›ù†.
+ssquid:S00100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½İıÿÿÿÿ8È©˜ç….
+usquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¦‰ƒ8È©˜ç….
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8üàé….
+ssquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä8È©˜ç….
+{squid:S00117ˆ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½İıÿÿÿÿ8¬É†.
+{squid:S00117Ğ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ÿ“ìûÿÿÿÿ8¬É†.
+usquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¦‰ƒ8È©˜ç….
+^squid:S1854)";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8È©˜ç….
+zsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÛˆÌûÿÿÿÿ8È©˜ç….
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8¬É†.
+jsquid:S1192U"GDefine a constant instead of duplicating this literal "button" 4 times.(óª€¸øÿÿÿÿ8¬É†.
+‹"squid:ClassVariableVisibilityCheck"QMake State a static final constant or non-public and provide accessors if needed.(¿Î‚Ïùÿÿÿÿ8È©˜ç….
+tsquid:S00117k"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å•/8Ååì†.
+rsquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ8È©˜ç….
+Qsquid:S1481*"3Remove this unused "Balance_Status" local variable.(ËÅ™ã8Áˆ­ç….
+usquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÅ™ã8È©˜ç….
+]
+squid:S106y";Replace this usage of System.out or System.err by a logger.(‚Åªüÿÿÿÿ8Ì¤æ†.
+Hsquid:S1444"*Make this "public static SSN1" field final(úØÍ¿8È©˜ç….
+Usquid:S1854s"7Remove this useless assignment to local variable "ch2".(’•·8ò›ù†.
+„"squid:ClassVariableVisibilityCheck"PMake SSN2 a static final constant or non-public and provide accessors if needed.(é’¡8È©˜ç….
+`squid:S1854*"BRemove this useless assignment to local variable "Balance_Status".(ËÅ™ã8Áˆ­ç….
+msquid:S1192>"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ8È©˜ç….
+vsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÅ™ã8¹Îèê£.
+{squid:S00117ˆ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½İıÿÿÿÿ8¬É†.
+…"squid:ClassVariableVisibilityCheck"PMake SSN1 a static final constant or non-public and provide accessors if needed.(úØÍ¿8È©˜ç….
+\squid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8È©˜ç….
+bsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8È©˜ç….
+Nsquid:S1444"+Make this "public static State" field final(¿Î‚Ïùÿÿÿÿ8È©˜ç….
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Ş‘·×úÿÿÿÿ8–¹ùé….
+Zsquid:S1854r"7Remove this useless assignment to local variable "ch1".(ÚÓ÷€ÿÿÿÿÿ8ò›ù†.
+Osquid:S1481)",Remove this unused "TxnType" local variable.(ÎÛˆÌûÿÿÿÿ8È©˜ç….
+osquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¬É†.
+_squid:S1854";Remove this useless assignment to local variable "TxnType".(ÎÛˆÌûÿÿÿÿ8¬É†.
+Qsquid:S1172ˆ"-Remove this unused method parameter "AppURL".(¼½İıÿÿÿÿ8¬É†.
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8È©˜ç….
+ksquid:UselessImportCheck	";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8üàé….
+nsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(Çªœ»úÿÿÿÿ8¹Îèê£.
+rsquid:S3008 "ORename this field "SSN3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÓÀŠúÿÿÿÿ8È©˜ç….
+]
+squid:S106o";Replace this usage of System.out or System.err by a logger.(‚Åªüÿÿÿÿ8ÅÚ†.
+zsquid:S00117n"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½˜Ë´ùÿÿÿÿ8°´“é….
+ssquid:S3008"PRename this field "State" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Î‚Ïùÿÿÿÿ8È©˜ç….
+nsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8È©˜ç….
+Ksquid:S1172""-Remove this unused method parameter "AppURL".(¶¦‰ƒ8È©˜ç….
+Š"squid:ClassVariableVisibilityCheck "PMake SSN3 a static final constant or non-public and provide accessors if needed.(®ÓÀŠúÿÿÿÿ8È©˜ç….
+msquid:S3008"ORename this field "SSN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úØÍ¿8È©˜ç….
+lsquid:S3008"ORename this field "SSN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é’¡8È©˜ç….
+zsquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ8È©˜ç….
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Öô¤§
+asquid:S1854"BRemove this useless assignment to local variable "Balance_Status".(ËÅ™ã8¬É†.
+^squid:UselessImportCheck"3Remove this unused import 'junit.framework.Assert'.(›¡ÇÕ8üàé….
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj8È©˜ç….
+usquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ8È©˜ç….

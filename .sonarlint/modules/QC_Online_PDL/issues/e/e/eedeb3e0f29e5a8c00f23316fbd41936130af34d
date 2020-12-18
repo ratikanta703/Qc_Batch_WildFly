@@ -1,0 +1,54 @@
+
+tsquid:S00117Æ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¥†³üÿÿÿÿ
+j
+squid:S134Ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+?squid:S1481ä"'Remove this unused "df" local variable.(©Âìü
+<squid:S1166>"%Either log or rethrow this exception.(”ı¾
+@squid:S1148®"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S00117´"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÎ‰
+bsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(µª™®
+?squid:S1481)"(Remove this unused "PIN" local variable.(¿âĞ¬
+=squid:S1166Ú"%Either log or rethrow this exception.(”ı¾
+Nsquid:S1854ä"6Remove this useless assignment to local variable "df".(©Âìü
+Qsquid:S1141:"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(µ»ºÓûÿÿÿÿ
+_squid:S12261"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢Àw
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¢Àw
+nsquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Rsquid:S1141Ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Csquid:S1172"-Remove this unused method parameter "AppURL".(š¢Àw
+osquid:S00117¿"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+osquid:S00117Å"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+bsquid:S1192"FDefine a constant instead of duplicating this literal "Login" 4 times.(÷º¢°üÿÿÿÿ
+>squid:S1481H"'Remove this unused "df" local variable.(©Âìü
+Bsquid:S1166¬"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+nsquid:S00117´"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÎ‰
+gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(µ»ºÓûÿÿÿÿ
+`squid:S1226Í"CIntroduce a new variable instead of reusing the parameter "driver".(Áç¸ÿøÿÿÿÿ
+Msquid:S1854H"6Remove this useless assignment to local variable "df".(©Âìü
+fsquid:S1192i"JDefine a constant instead of duplicating this literal "mainFrame" 6 times.(ËøÇªıÿÿÿÿ
+Nsquid:S1854)"7Remove this useless assignment to local variable "PIN".(¿âĞ¬
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+Isquid:S1135?"2Complete the task associated to this TODO comment.(‡ñÅ¼
+Jsquid:S1135Û"2Complete the task associated to this TODO comment.(‡ñÅ¼
+Dsquid:S1172´"-Remove this unused method parameter "AppURL".(ëÎ‰
+i
+squid:S134:"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Osquid:S1854Å"7Remove this useless assignment to local variable "PIN".(¿âĞ¬
+ssquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜøûÿÿÿÿ
+Osquid:S1135­"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±£ÛÙüÿÿÿÿ
+tsquid:S00117Ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÜøûÿÿÿÿ
+csquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(µª™®
+@squid:S1148Ê"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Bsquid:S1166È"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+hsquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+@squid:S1481Å"(Remove this unused "PIN" local variable.(¿âĞ¬
+Osquid:S1135É"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
